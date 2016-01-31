@@ -12,5 +12,3 @@
 
   p.s.: It is important to observate that this program was tested in a linux environment and need some modifications in order to run under windows.
 
-Teste!
-
