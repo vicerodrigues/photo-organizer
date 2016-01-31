@@ -11,3 +11,6 @@
     Example: ./orgfotos -v "Teste" --> Accesses your files in the Videos folder and organizes them in home/user/Downloads/Teste/Videos
 
   p.s.: It is important to observate that this program was tested in a linux environment and need some modifications in order to run under windows.
+
+Teste!
+
